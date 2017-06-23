@@ -11,8 +11,8 @@
   <menuitem
     id="menu_temos_ipo_report"
     name="Instalação de Posto"
-    parent="temos_report.menu_temos_report"
-    sequence = "0"
+    parent="temos.menu_temos"
+    sequence = "100"
     action="temos_ipo_action"
   />
 
